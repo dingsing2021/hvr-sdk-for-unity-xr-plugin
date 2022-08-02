@@ -1,0 +1,17 @@
+{
+  "name": "Huawei XR Plugin",
+  "version": "0.0.1",
+  "libraryName": "HuaweiXRPlugin",
+  "displays": [
+    {
+      "id": "huawei display",
+      "disablesLegacyVr" : true,
+      "supportedMirrorBlitReservedModes" : ["leftEye","rightEye", "sideBySide","occlusionMesh"]
+    }
+  ],
+  "inputs": [
+    {
+      "id": "huawei input"
+    }
+  ]
+}
