@@ -69,5 +69,3 @@ Integration with XR Management isn't required to use the [HUAWEI VR SDK For Unit
 ![](images/XR_management.png)
 
 # Known issues
- -  Dispaly wrong controller model of type sometimes.
- -  Right eye is black in Foveated mode with Unity 2019
