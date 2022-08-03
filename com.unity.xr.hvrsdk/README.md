@@ -7,7 +7,6 @@ Warning：Current package is preview version.
 
 ## Unity and HVRSDK apk Version
 * Unity 2019.4.f15 and above
-* HVRSDK_for_UnityXR.apk (test version)
 
 
 ## Installing Huawei XR Plugin
