@@ -49,7 +49,7 @@
     * In planning, will supported in the near feature. 
 
 ## Old SDK API compatibility
-The API of old sdk [HUAWEI VR SDK For Unity](https://developer.huawei.com/consumer/cn/doc/development/graphics-Library/unity-sdk-download-0000001142315529) still be access to apps' C# script. But all the rendering camera related API is not available.
+The API of old sdk [HUAWEI VR SDK For Unity](https://developer.huawei.com/consumer/cn/doc/development/graphics-References/overview-0000001100594564) still be access to apps' C# script. But all the rendering camera related API is not available.
 |Class|Compatibility|Description|
 |----|---|---|
 |`HvrApi`|Not fully supported| GetHvrSdkVersion/GetHelmetHandle/GetControllerHandle
