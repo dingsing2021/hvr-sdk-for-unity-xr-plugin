@@ -49,7 +49,7 @@
     * In planning, will supported in the near feature. 
 
 ## Old SDK API compatibility
-The API of old sdk [HUAWEI VR SDK For Unity](https://developer.huawei.com/consumer/cn/doc/development/graphics-References/overview-0000001100594564) still be access to apps' C# script. But all the rendering camera related API is not available.
+The API of old sdk [HUAWEI VR SDK API For Unity](https://developer.huawei.com/consumer/cn/doc/development/graphics-References/overview-0000001100594564) still be access to apps' C# script. But all the rendering camera related API is not available.
 |Class|Compatibility|Description|
 |----|---|---|
 |`HvrApi`|Not fully supported| GetHvrSdkVersion/GetHelmetHandle/GetControllerHandle
@@ -64,7 +64,7 @@ The API of old sdk [HUAWEI VR SDK For Unity](https://developer.huawei.com/consum
 
 ## XR Management support
 
-Integration with XR Management isn't required to use the [HUAWEI VR SDK For Unity](https://developer.huawei.com/consumer/cn/doc/development/graphics-Library/unity-sdk-download-0000001142315529) (Unless old input module is used),  You just need to import Huawei XR Plugin then choose the sdk in `XR Plug-in Management`. For more information from [XR Management Documention](https://docs.unity3d.com/Packages/com.unity.xr.management@latest). Check for project script errors if you don't see Hvrsdk checkbox.
+Integration with XR Management isn't required to use the [HUAWEI VR SDK For Unity（old version, will be discared）](https://developer.huawei.com/consumer/cn/doc/development/graphics-Library/unity-sdk-download-0000001142315529) (Unless old input module is used),  You just need to import Huawei XR Plugin then choose the sdk in `XR Plug-in Management`. For more information from [XR Management Documention](https://docs.unity3d.com/Packages/com.unity.xr.management@latest). Check for project script errors if you don't see Hvrsdk checkbox.
 
 ![](images/XR_management.png)
 
