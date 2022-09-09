@@ -1,2 +1,4 @@
 # hvr-sdk-for-unity-xr-plugin
-此xr plugin 包括两部分：xr sdk  与 手柄预制件包controller_for_UnityXR_1129_2.unitypackage；其中手柄预制件包开发者可以根据实际项目情况选用，并非必须使用；
+this xr plugin has two parts
+1, hvr xr sdk,[xx] bascic xr sdk, provied rendering , controller api .
+2, hvr controller prefabs[controller_for_UnityXR_1129_2.unitypackage](), it is not very open and flexible, just for some demo app. not recommoned for comercial apps, you can make your own controller prefabs.
