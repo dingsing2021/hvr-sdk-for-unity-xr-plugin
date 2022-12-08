@@ -5,7 +5,7 @@ This package provides XR Plugin support for Huawei VR devices. The developer can
 
 Warning：Current package is preview version. 
 
-## Unity and HVRSDK apk Version
+## Unity Version
 * Unity 2019.4.f15 and above
 
 
@@ -15,7 +15,10 @@ To install this package, follow the instructions in the [Installing a package fr
 
 Then check platforms for `com.unity.xr.hvrsdk/Runtime/Android/arm32`  library files as shown below.
 
-![](Documentation~/images/library_Inspector.PNG)
+![](Documentation~/images/library_arm32Inspector.PNG)
+
+Then check platforms for `com.unity.xr.hvrsdk/Runtime/Android/arm64`  library files as shown below.
+![](Documentation~/images/library_arm64_inspector.PNG)
 
 ## Documentation
 
