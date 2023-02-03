@@ -27,6 +27,7 @@
     * Draw left and right eye at the same time with texture2D Array in rednering. It will save CPU load. You may need to modify shader to adapt this mode. More information from [Single Pass Instanced rendering](https://docs.unity3d.com/Manual/SinglePassInstancing.html). 
   * Foveated 
     * This mode will improve display clarity by fixed foveated rendering and it is recommended to enable. It alse use Single Pass Instanced rendering. So you may need to modify shaders. (Unity 2020.3.0 and above)
+    * setting : 'File->build settings->player settings->xr plugin management->huawei->stereo rendering mode: foveated'
   * URP compatibility
     * Huawei XR Plugin compatibility of URP conform to Unity XR System. More information, see [Universal Render Pipeline compatibility in XR](https://docs.unity3d.com/Manual/xr-render-pipeline-compatibility.html)
 
